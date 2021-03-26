@@ -1,0 +1,29 @@
+body {
+    background-color: #232323;
+}
+ 
+/* The container controls the size of 
+the box that contains the squares */
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    /* Square doesn't show up on 
+    page so padding added */
+    padding-bottom: 40%;
+    float: left;
+    margin: 1.66%;
+ 
+}
+ 
+h1 {
+    color: white;
+}
+ 
+span {
+    color: white;
+}
