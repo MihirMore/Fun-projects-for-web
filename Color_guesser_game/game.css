@@ -1,5 +1,5 @@
 body {
-    background-color: #232323;
+    background-color: #d3dad546;
 }
  
 /* The container controls the size of 
@@ -11,7 +11,7 @@ the box that contains the squares */
 
 .square {
     width: 30%;
-    background: purple;
+    background: rgb(0, 0, 0);
     /* Square doesn't show up on 
     page so padding added */
     padding-bottom: 40%;
@@ -21,9 +21,9 @@ the box that contains the squares */
 }
  
 h1 {
-    color: white;
+    color: rgb(65, 63, 63);
 }
  
 span {
-    color: white;
+    color: rgb(119, 196, 183);
 }
